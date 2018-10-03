@@ -4,11 +4,7 @@ DSxC es un proyecto académico.
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
-[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)]
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)]
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)]
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)]
+Proyecto Activo
 
 ## About
 
