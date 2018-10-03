@@ -4,7 +4,11 @@ DSxC es un proyecto académico.
 
 ## Status
 
-Proyecto Activo
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)]
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)]
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)]
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)]
 
 ## About
 
@@ -14,7 +18,7 @@ Grupo de investigación PALOSECO - Universidad de Investigación y Desarrollo - 
 
   MSc. Adolfo Vargas Espitia
 
-  Est. Daniel Alvarez Quintero
+  Est. C. Daniel Alvarez Quintero
 
 Universidad Pontificia Javeriana de Bogotá - UPJ Bogotá
 
@@ -24,6 +28,6 @@ Universidad de San Buenaventura de Medellín - USB Medellín
 
   MSc. Diomar Calderón Riaño
 
-## Copyright and License
+##  License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
+Code released under the [MIT](https://github.com/chdznel/DSx_Colombia/blob/master/LICENSE) license.
