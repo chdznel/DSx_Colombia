@@ -1,18 +1,12 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
+# [Bienvenido al proyecto de DSx_Colombia](http://dsxc.ga)
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-## Preview
-
-[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
+DSxC es un proyecto académico.
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)]
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)]
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
 
