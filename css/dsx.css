@@ -292,6 +292,19 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background-color: transparent;
 }
 
+.btn-activado {
+  color: black;
+  background-color: #fdcc52;
+  border: 1px solid;
+  border-color: transparent;
+}
+
+.btn-activado:hover, .btn-activado:focus, .btn-activado:active, .btn-activado.active {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+
 .btn {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
@@ -361,11 +374,6 @@ iframe {
 .fondo-intro{
     margin: 10px;
     background-color: rgba(0, 0, 0, 0, 0.5);
-}
-
-.fondo-auxiliar{
-    background: url(/img/montana.jpg);
-    background-size: cover;
 }
 
 .botones:hover {
