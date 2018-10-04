@@ -26,4 +26,4 @@ Universidad de San Buenaventura de Medellín - USB Medellín
 
 ##  License
 
-Code released under the [MIT](https://github.com/chdznel/DSx_Colombia/blob/master/LICENSE) license.
+Code released under the Creative Commons BY-NC-ND License. [cc-by-nc-nd-4.0](https://github.com/chdznel/DSx_Colombia/blob/master/LICENSE)
