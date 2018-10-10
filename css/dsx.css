@@ -338,6 +338,58 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   padding: 15px 45px;
 }
 
+.btn-descubrir {
+  color: white;
+  background-color: #f36422;
+  border: 1px solid;
+  border-color: transparent;
+}
+
+.btn-descubrir:hover, .btn-descubrir:focus, .btn-descubrir:active, .btn-descubrir.active {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+
+.btn-macro {
+  color: white;
+  background-color: #ef303f;
+  border: 1px solid;
+  border-color: transparent;
+}
+
+.btn-macro:hover, .btn-macro:focus, .btn-macro:active, .btn-macro.active {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+
+.btn-micro {
+  color: white;
+  background-color: #bf1947;
+  border: 1px solid;
+  border-color: transparent;
+}
+
+.btn-micro:hover, .btn-micro:focus, .btn-micro:active, .btn-micro.active {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+
+.btn-entregar {
+  color: white;
+  background-color: #7e1542;
+  border: 1px solid;
+  border-color: transparent;
+}
+
+.btn-entregar:hover, .btn-entregar:focus, .btn-entregar:active, .btn-entregar.active {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+
 .bg-primary {
   width: 100%;
   height: 100%;
@@ -385,9 +437,11 @@ iframe {
 }
 
 .pdf{
-    height: 70%;
-    margin-left: 10%;
-    margin-right: 2%;
+    position:absolute;
+    right:0;
+    top:76px;
+    height: 80%;
+    width: 700px;
 }
 
 .fondo-intro{

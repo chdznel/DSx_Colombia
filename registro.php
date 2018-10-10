@@ -3,7 +3,7 @@
    error_reporting( E_ALL );    echo "The email message was sent.";
 
 if($_POST["submit"]) {
-    $recipient="calvarez1@udi.edu.co""danialvarezq@gmail.com";
+    $recipient="calvarez1@udi.edu.co";
     $subject="Prueba de DSxC";
     $sender=$_POST["email"];
     $senderEmail=$_POST["email"];
